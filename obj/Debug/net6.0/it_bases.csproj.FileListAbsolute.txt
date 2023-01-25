@@ -1,0 +1,15 @@
+C:\Users\zarina.lyapidovskaya\Desktop\geek brains\Sources\it_bases\obj\Debug\net6.0\it_bases.csproj.AssemblyReference.cache
+C:\Users\zarina.lyapidovskaya\Desktop\geek brains\Sources\it_bases\obj\Debug\net6.0\it_bases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zarina.lyapidovskaya\Desktop\geek brains\Sources\it_bases\obj\Debug\net6.0\it_bases.AssemblyInfoInputs.cache
+C:\Users\zarina.lyapidovskaya\Desktop\geek brains\Sources\it_bases\obj\Debug\net6.0\it_bases.AssemblyInfo.cs
+C:\Users\zarina.lyapidovskaya\Desktop\geek brains\Sources\it_bases\obj\Debug\net6.0\it_bases.csproj.CoreCompileInputs.cache
+C:\Users\zarina.lyapidovskaya\Desktop\geek brains\Sources\it_bases\bin\Debug\net6.0\it_bases.exe
+C:\Users\zarina.lyapidovskaya\Desktop\geek brains\Sources\it_bases\bin\Debug\net6.0\it_bases.deps.json
+C:\Users\zarina.lyapidovskaya\Desktop\geek brains\Sources\it_bases\bin\Debug\net6.0\it_bases.runtimeconfig.json
+C:\Users\zarina.lyapidovskaya\Desktop\geek brains\Sources\it_bases\bin\Debug\net6.0\it_bases.dll
+C:\Users\zarina.lyapidovskaya\Desktop\geek brains\Sources\it_bases\bin\Debug\net6.0\it_bases.pdb
+C:\Users\zarina.lyapidovskaya\Desktop\geek brains\Sources\it_bases\obj\Debug\net6.0\it_bases.dll
+C:\Users\zarina.lyapidovskaya\Desktop\geek brains\Sources\it_bases\obj\Debug\net6.0\refint\it_bases.dll
+C:\Users\zarina.lyapidovskaya\Desktop\geek brains\Sources\it_bases\obj\Debug\net6.0\it_bases.pdb
+C:\Users\zarina.lyapidovskaya\Desktop\geek brains\Sources\it_bases\obj\Debug\net6.0\it_bases.genruntimeconfig.cache
+C:\Users\zarina.lyapidovskaya\Desktop\geek brains\Sources\it_bases\obj\Debug\net6.0\ref\it_bases.dll
